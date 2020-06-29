@@ -1,6 +1,13 @@
-import math
+#===============================
+# Avent of Code 2019 - Day 1
+#
+# Made by: Pedro Póvoa
+# Date: 29/06/2020
+#===============================
 
-# Part 2 ===
+
+# === CODE ===
+import math
 
 fich = open('input.txt', 'r')
 total = 0
